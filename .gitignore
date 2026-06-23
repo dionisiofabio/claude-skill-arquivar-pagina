@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+build/
+_skill_build/
+*.skill
+.env
+.env.*
+!.env.example
+*.env
+.chrome-profile/
